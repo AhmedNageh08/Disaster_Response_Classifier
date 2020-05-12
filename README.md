@@ -1,4 +1,4 @@
-# Disaster Response Pipeline Project
+# Disaster Response Classifier
 
 ### Summary:
 analyze disaster data from Figure Eight to build a model for an API that classifies disaster messages By be creating a machine learning pipeline to categorize these events so that you can send the messages to an appropriate disaster relief agency.
